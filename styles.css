@@ -45,6 +45,7 @@ header {
 
 .detail-image {
   height: 350px;
+  position: relative;
 }
 
 .name,
